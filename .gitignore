@@ -1,0 +1,18 @@
+.env
+target/
+.DS_Store
+.claude/
+
+# Local Suno auth/session data (never commit credentials)
+auth.json
+**/auth.json
+*.bak
+
+# Local generated outputs
+*.mp3
+*.mp4
+*.wav
+*.flac
+*.lrc
+verification_report.json
+status.json
