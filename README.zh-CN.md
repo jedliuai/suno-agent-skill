@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 # suno-agent-skill
 
 [English](README.md) | 中文
